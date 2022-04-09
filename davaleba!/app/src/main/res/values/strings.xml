@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">davaleba</string>
+    <string name="run_distance">garbeni</string>
+    <string name="swim_distance">gacuruli distancia</string>
+    <string name="calories">kaloriebi</string>
+    <string name="save">shenaxva</string>
+</resources>
